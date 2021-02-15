@@ -1,4 +1,4 @@
-# Token-Cheker
+# Token-Checker
 Token Cheker Dev By Ciclow :
 
 N'oublier pas de crée un tokens.txt dans le dossier Token-Cheker et un dossier output et mettre dedans un fichier, invalid.txt / unverified.txt / verified.txt
